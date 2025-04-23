@@ -1,13 +1,13 @@
 # Urban-Microclimate-Prediction-Hybrid-LSTM-Transformer-Kriging
 Course Project for Arch 8833-Data-driven Methods in Design and Sustainability
 
-![Diagram_1](images/Diagram_1.jpg)
+![image.png](image.png)
 
 
 # 🌦️ Microclimate Prediction Model
 
 ## 🧭 Overview
-
+![Diagram_1](images/Diagram_1.jpg)
 This project introduces a hybrid machine learning approach for urban microclimate prediction. It integrates time series forecasting (using LSTM and Transformer architecture) with spatial interpolation (Kriging) to model environmental conditions across the urban canopy layer.
 
 Key inputs include:
