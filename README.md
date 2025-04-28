@@ -1,4 +1,4 @@
-# Urban-Microclimate-Prediction-Hybrid-LSTM-Transformer-Kriging
+# ARCH-8833-Sp25-Urban-Microclimate-Prediction-Hybrid-LSTM-Transformer-Kriging
 Course Project for Arch 8833-Data-driven Methods in Design and Sustainability
 
 ![image.png](images/image.png)
